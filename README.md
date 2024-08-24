@@ -9,3 +9,4 @@ Pandas is a powerful Python library for data manipulation and analysis, providin
   <img src="https://github.com/user-attachments/assets/1de4e3af-4c3d-4d34-a2ff-6ffecc9f55c0" alt="data" width="150px">
 </div>
 
+<img width="740" alt="Desktop - 3" src="https://github.com/user-attachments/assets/7d1f1191-576a-489d-bb2d-1c338d54baad">
