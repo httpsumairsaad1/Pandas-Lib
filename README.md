@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.pandasPractice"/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.pandasPractice)
+
 
 # Pandas-Lib
 
